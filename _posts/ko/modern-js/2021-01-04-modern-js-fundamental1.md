@@ -3,7 +3,7 @@ layout: post
 title:  "모던 자바스크립트 2.1 - 2.5"
 subtitle: "자바스크립트 기본 • 코드 구조 • 엄격 모드 • 변수와 상수 • 자료형"
 date:   2021-01-04 07:00:00 +1400
-author: "yuueu"
+author: "Blue"
 header-img: "img/post-bg-js.jpg"
 header-mask: 0.5
 catalog: true
@@ -143,10 +143,10 @@ modern JS는 클래스와 모듈이라는 구조를 제공하는데 이 둘을 �
 데이터를 저장할 때 쓰이는 **이름이 붙은 저장소**. `let` 키워드를 쓰며 `=` 연산자를 사용해서 데이터를 저장한다. 
 
 ```js
-let name = 'yuueu';
+let name = 'euisblue';
 let age = 21;
 
-console.log('name: + ' + name); // name: yuueu
+console.log('name: + ' + name); // name: euisblue
 console.log('age: ' + age); // age: 21
 
 // 이미 만든 변수에 새로운 데이터를 저장. 이전 값을 덮어쓴다.
@@ -164,8 +164,8 @@ console.log('age: ' + age); // age: 24
 1. 변수명에는 오직 문자와 숫자, 그리고 `$` 와 `_` 만 들어갈 수 있다.
 2. 첫 글자는 숫자가 될 수 없다.
     ```js
-    let userName1 = 'yuueu';
-    let userName2 = 'yuueu';
+    let userName1 = 'euisblue';
+    let userName2 = 'euisblue';
 
     let $ = 'dollar';
     let _ = 'underscore';
@@ -243,7 +243,7 @@ const bigNumber = 1234567890123456789012345678901234567890n;
 ### 3. 문자형
 
 ```js
-let str = "yuueu";
+let str = "euisblue";
 let str2 = 'Quadcore';
 let str3 = `다른 변수를 삽입: ${str} and ${str2}`;
 ```

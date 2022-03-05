@@ -16,17 +16,16 @@ const PRECACHE_LIST = [
   "./",
   "./js/jquery.min.js",
   "./js/bootstrap.min.js",
-  "./js/yuueu-blog.min.js",
+  "./js/euisblue-blog.min.js",
   "./js/snackbar.js",
-  "./img/avatar-yuueu.jpg",
+  "./img/avatar-euisblue.jpg",
   "./img/home-bg.png",
   "./img/404-bg.jpg",
-  "./css/yuueu-blog.min.css",
+  "./css/euisblue-blog.min.css",
   "./css/bootstrap.min.css"
 ]
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "yuueu.me",
   "cdnjs.cloudflare.com"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']

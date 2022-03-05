@@ -19,7 +19,7 @@ Let's recall what object is from previous units.
 **Object** - an entity that represents the real world object.
 ```js
 let user = {
-    name: "yuueu",
+    name: "euisblue",
     age: "19"
 };
 ```
@@ -29,7 +29,7 @@ Objects in the real world have an action associated to it. For example, a human 
 ## Methods
 ```js
 let user = {
-    name: "yuueu",
+    name: "euisblue",
     age: "19"
 };
 
@@ -72,32 +72,32 @@ We can omit `function` and just write `sayHi()`. This shorter syntax is easier t
 We can access the object from the method using `this` keyword.
 ```js
 let user = {
-    name: "yuueu",
+    name: "euisblue",
     sayHi() {
         console.log(`Hi! ${this.name}`);
     }
 };
 
-user.sayHi(); // Hi! yuueu
+user.sayHi(); // Hi! euisblue
 ```
 
 It is also possible to access the object without using `this`.
 
 ```js
 let user = {
-    name: "yuueu",
+    name: "euisblue",
     sayHi() {
         console.log(`Hi! ${user.name}`);
     }
 };
 
-user.sayHi(); // Hi! yuueu
+user.sayHi(); // Hi! euisblue
 ```
 
 This approach, however, is risky. We can overwrite the outer object `user` to some other value and now `user.name` will reference something else or wont exist at all.
 ```js
 let user = {
-    name: "yuueu",
+    name: "euisblue",
     sayHi() {
         console.log(`Hi! ${user.name}`);
     }

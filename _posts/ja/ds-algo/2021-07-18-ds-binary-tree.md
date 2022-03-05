@@ -208,7 +208,7 @@ void BinaryTree::deleteNode(void) {
 ```
 
 ## 練習問題
-- [617. Merge Two 二分木s](https://leetcode.com/problems/merge-two-binary-trees/) ([solution](https://github.com/yuueu/cp/tree/leetcode/easy/617/617.cpp))
+- [617. Merge Two 二分木s](https://leetcode.com/problems/merge-two-binary-trees/) ([solution](https://github.com/euisblue/cp/tree/leetcode/easy/617/617.cpp))
 
 --- 
 

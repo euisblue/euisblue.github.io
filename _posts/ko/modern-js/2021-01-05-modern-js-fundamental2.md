@@ -47,12 +47,12 @@ let name = prompt(message); // 잘 작동한다.
 
 하지만 IE 에서는 초기값을 쓰지 않으면 `undefined`가 명시된다고 한다.
 
-아래의 코드를 실행하고 '**yuueu**'를 입력하면 `name` 변수에는 문자열 '**yuueu**'가 저장된다.
+아래의 코드를 실행하고 '**euisblue**'를 입력하면 `name` 변수에는 문자열 '**euisblue**'가 저장된다.
 
 ```js
 let name = prompt("당신의 이름은?", '이름을 입력해주세요');
 
-console.log(name); // yuueu
+console.log(name); // euisblue
 ```
 
 ### - 컨펌(confirm) 대화상자

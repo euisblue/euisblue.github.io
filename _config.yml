@@ -1,10 +1,10 @@
 # Site settings
-title: .Blue
+title: Blue
 SEOTitle: Blue's Tech Blog
 header-img: img/home-bg.png
-email: yuueu@pm.me
+email: euBlue@pm.me
 description: "개발 블로그 | Junior Frontend Engineer | Check how @euisblue learns."
-keyword: "Frontend, Engineer, Developer, euisblue, yuueu, Web, 웹, 프로그래밍, 개발자, 프론트엔드, ウェブ, エンジニア, プログラミング"
+keyword: "Frontend, Engineer, Developer, euisblue, euisblue, Web, 웹, 프로그래밍, 개발자, 프론트엔드, ウェブ, エンジニア, プログラミング"
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,6 @@ future: true
 RSS: true
 github_username:    "euisblue"
 twitter_username:   "euisblue"
-linkedin_username:  "yuueu"
 instagram_username: "yuusdoodle"
 
 # Build settings
@@ -59,7 +58,7 @@ kramdown:
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "🇰🇷 born 🇺🇸 raised 🇯🇵 working | Junior Frontend Engineer | Doodler | Ravenclaw "
-sidebar-avatar: /img/avatar-yuueu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-euisblue.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: false                     # whether or not using Feature-Tags
@@ -88,6 +87,6 @@ defaults:
     scope:
       path: ""
     values:
-      author: ".Blue"
+      author: "Blue"
       hidden: true
       published: false

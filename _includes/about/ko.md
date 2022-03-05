@@ -1,10 +1,10 @@
 <div align="center">
 <h2>안녕하세요. </h2> 
 <p>
-<b>유유 (Eu, Yuu)</b>입니다.
+<b>유미도</b>입니다.
 </p>
 
-<img src="./../../img/yuu2.jpg" width="300" height="256" alt="yuueu" />
+<img src="./../../img/yuu2.jpg" width="300" height="256" alt="euisblue" />
 
 <p class="desc">
 저는 <br>
@@ -64,15 +64,3 @@ h3 {
     <!-- <img src="https://img.shields.io/badge/^%20Techs that I've used before%20^-f5f5f5?style=flat-square"/> -->
 <!-- <hr> -->
 </div>
-
-<!-- 
-<br>
-<div align='center' class="contact">
-  <h3>🐱 Reach Me 🐱</h3>
-  <div style="display: flex; justify-content: center;">
-  <a href="https://www.linkedin.com/in/yuueu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="https://www.twitter.com/_yuueu/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> &nbsp;
-  <a href="https://github.com/yuueu"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/yuueu"/></a> &nbsp;
-  <a href="https://www.instagram.com/yuusdoodle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yuusdoodle/"/></a>
-  </div>
-</div> -->

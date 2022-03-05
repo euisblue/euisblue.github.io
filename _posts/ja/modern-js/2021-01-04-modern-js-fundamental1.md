@@ -137,10 +137,10 @@ JavaScriptプログラムを複数のファイルに分割できます。分割�
 データを保存するとき使用する**名前がついているコンテナー**です。`let`キーワードを使用し、`=`演算子を使用してデータを保存します。
 
 ```js
-let name = 'yuueu';
+let name = 'euisblue';
 let age = 21;
 
-console.log('name: + ' + name); // name: yuueu
+console.log('name: + ' + name); // name: euisblue
 console.log('age: ' + age); // age: 21
 
 // 値の変更
@@ -157,8 +157,8 @@ console.log('age: ' + age); // age: 24
 
 1. 変数名には文字、数字、記号`$`と`_`のみを含む必要があります。
     ```js
-    let userName1 = 'yuueu';
-    let userName2 = 'yuueu';
+    let userName1 = 'euisblue';
+    let userName2 = 'euisblue';
 
     let $ = 'dollar';
     let _ = 'underscore';
@@ -245,7 +245,7 @@ const bigNumber = 1234567890123456789012345678901234567890n;
 ### 【３】文字列
 
 ```js
-let str = "yuueu";
+let str = "euisblue";
 let str2 = 'Quadcore';
 let str3 = `다른 변수를 삽입: ${str} and ${str2}`;
 ```
